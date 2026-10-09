@@ -1,1 +1,5 @@
 ./gym/Tennis.app/Contents/MacOS/Tennis
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/

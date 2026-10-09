@@ -1,0 +1,9 @@
+# Requirements for TennisGym
+# Install with: pip install -r requirements.txt
+# Note: training also requires the Unity Tennis environment binary,
+# which is included in this repo under gym/ (macOS build).
+
+torch>=1.4.0
+numpy>=1.18.0
+unityagents>=0.4.0
+matplotlib>=3.1.0
